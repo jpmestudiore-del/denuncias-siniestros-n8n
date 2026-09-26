@@ -93,3 +93,5 @@ TRUE │ FALSE │
 > ya gestionadas y previene bucles infinitos.
 
 ---
+
+https://airtable.com/appraIGAQu0s7ghJX/shrzQLKsoyS4LLC6w
